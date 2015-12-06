@@ -1,0 +1,22 @@
+# Site settings
+title: Luis Alejandro Crespo Falco
+email: luiscrisf@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a passionate Software Engineer. This site has the purpose to share my
+  knowledge through posts covering a wide variety of Software Developement
+  tools, techs and best practices.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://luisincrespo.github.io" # the base hostname & protocol for your site
+github_username:  luisincrespo
+
+# Build settings
+markdown: kramdown
+
+# Defaults for Front Matter
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
