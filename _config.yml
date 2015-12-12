@@ -10,6 +10,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://luisincrespo.github.io" # the base hostname & protocol for your site
 github_username:  luisincrespo
 twitter_username: luisincrespo
+linkedin_profile: https://ve.linkedin.com/in/luisincrespo
+google_profile: https://plus.google.com/u/0/+LuisCrespoFalco
 
 # Build settings
 markdown: kramdown
