@@ -697,6 +697,9 @@ ListContainer.propTypes = {
   onAdd: React.PropTypes.func.isRequired,
   addText: React.PropTypes.string
 };
+.
+.
+.
 {% endhighlight %}
 
 #### Removing list items
@@ -1425,6 +1428,7 @@ We should update our `version` and `main` options:
   .
   .
   .
+}
 {% endhighlight %}
 
 I've decided to change the version number from *1.0.0* to *0.1.0* because our module is pretty simple and naive yet, not really qualifying as a major *first* version.
