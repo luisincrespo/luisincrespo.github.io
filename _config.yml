@@ -3,8 +3,9 @@ title: Luis Crespo
 email: luiscrisf@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Luis Crespo is a full-stack software engineering professional.
-  Passionate for software development in general, but especialized in web
-  front-end engineering, using state of the art techs, frameworks and patterns.
+  Passionate for software development in general, but especialized in web apps
+  engineering, using state of the art techs, frameworks, patterns and best
+  practices.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://luisincrespo.github.io" # the base hostname & protocol for your site
 github_username:  luisincrespo
