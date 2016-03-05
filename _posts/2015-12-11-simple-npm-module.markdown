@@ -1505,8 +1505,8 @@ I also encourage you to further read about he following topics/techs/tools:
 [alt]: http://alt.js.org/
 [git]: https://git-scm.com/
 [immutable]: https://facebook.github.io/immutable-js/
-[react-list]: https://github.com/luisincrespo/react-list
-[react-list-0.1.0]: https://github.com/luisincrespo/react-list/tree/0.1.0
+[react-list]: https://github.com/luisincrespo/react-custom-list
+[react-list-0.1.0]: https://github.com/luisincrespo/react-custom-list/tree/0.1.0
 [node]: https://nodejs.org/
 [semver]: http://semver.org/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
